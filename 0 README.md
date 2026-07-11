@@ -27,4 +27,4 @@
 | เกียรติบัตร4 | [Click Here](7nk.md)
 | กิจกรรม1🌀 | [Click Here](8nk.md)
 | กิจกรรม2 | [Click Here](9nk.md)
-| กิจกรรม3 | [Click Here](nk.10.md)
+| กิจกรรม3 | [Click Here](Ak.10.md)
